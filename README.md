@@ -1,7 +1,7 @@
 Hi 👋 My name is Kshitij Verma
 ==============================
 
-Final year student at MNNIT Allahabad
+Final Year Student at MNNIT Allahabad
 -------------------------------------
 
 I've been learning Web development since 2020. I started with HTML and gradually learned the basics of web development after which I learned backend development and became passionate about it.
