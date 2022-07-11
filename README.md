@@ -9,7 +9,7 @@ I've been learning Web development since 2020. I started with HTML and gradually
 * 🌍  I'm based in Allahabad, India.
 * ✉️  You can contact me at [kshitijverma816@gmail.com](mailto:kshitijverma816@gmail.com)
 * 🧠  I'm learning React.
-* ⚡  Apart from development, I focus on Data Structures & Algorithms in JAVA and like problem solving.
+* ⚡  Apart from development, I focus on Data Structures & Algorithms in JAVA and my problem solving skills.
 
 <a href="https://www.github.com/kshitijver" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/kshitijver?logo=github&style=for-the-badge&color=0891b2&labelColor=27272a" /></a>
